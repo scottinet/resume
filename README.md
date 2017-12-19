@@ -48,4 +48,6 @@ If you wish to contact me, feel free to send me an e-mail at the following addre
 
 # Other centers of interest
 
-On my free time, I'm playing [code golf](https://en.wikipedia.org/wiki/Code_golf) in C, Javascript or 05AB1E.
+On my free time, I'm playing [code golf](https://en.wikipedia.org/wiki/Code_golf) in C, Javascript or 05AB1E.  
+My code golf profile on stackexchange: https://codegolf.stackexchange.com/users/73296/scottinet
+
