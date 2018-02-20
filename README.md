@@ -137,4 +137,4 @@ My code golf profile on stackexchange: https://codegolf.stackexchange.com/users/
 
 # How to contact me
 
-If you wish to contact me, you can send me an e-mail at the following address: seb`<dot>`cottinet`<at>`gmail.com
+If you wish to contact me, you can send me an e-mail at the following address: seb.cottinet@gmail.com
