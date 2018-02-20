@@ -47,7 +47,7 @@ When I bang my head on my desk on a hard to track, subtle bug occuring randomly,
 
 Give me routine and I get bored, I lose my motivation... and I leave.
 
-If that's possible, I would like to work for a company with a modern/Agile mindset, where people actually spend their time collaborating, working, improving, teaching and innovating.  
+I would like to work for a company with a modern/Agile mindset, where people actually spend their time collaborating, working, improving, teaching and innovating.  
 If that's not possible, then I will still gladly hear what you've got to offer in terms of salary, holidays and other advantages. 
 
 # Experiences
