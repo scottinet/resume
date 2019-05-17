@@ -21,7 +21,7 @@
 # Overview
 
 I'm currently a lead developer at [Kuzzle](http://kuzzle.io), and I have over 18 years of professional experience.  
-I can work either in La Ciotat or Marseille (France), its surrounding area, or remotely.
+I can work either in either La Ciotat, Toulon or Marseille (France), their surrounding areas, or remotely.
 
 I *largely* favor remote working, because I want to lower my carbon footprint as much as possible. Do not worry: I'm as much productive, if not more, working on my own desk at home, and I still gladly and efficiently do collaborative work with my coworkers.
 
