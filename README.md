@@ -20,20 +20,21 @@
 
 # Overview
 
-I'm currently a lead developer at [Kuzzle](http://kuzzle.io), and I have over 18 years of professional experience.  
-I can work either in either La Ciotat, Toulon or Marseille (France), their surrounding areas, or remotely.
+I am currently a lead developer and software architect at [Kuzzle](http://kuzzle.io), and I have about 20 years of professional experience.  
+I can work either in either La Ciotat, Toulon, Aix-en-Provence or Marseille (France), their surrounding areas, or remotely.
 
-I *largely* favor remote working, because I want to lower my carbon footprint as much as possible. Do not worry: I'm as much productive, if not more, working on my own desk at home, and I still gladly and efficiently do collaborative work with my coworkers.
+I *largely* favor remote working, because I want to lower my carbon footprint as much as possible. Do not worry: I am as much productive, if not more, working on my own desk at home, and I still gladly and efficiently do collaborative work with my coworkers.
 
 I'm proficient in C and Node.js, I can easily work on existing projects written in Java, C++, C#, Python, Go or PHP, and I can learn new languages very quickly.
 
-My coding style focuses on writing easy-to-understand, maintainable code, and I like to follow a few principles to achieve that goal, most prominently: [KISS](https://en.wikipedia.org/wiki/KISS_principle), [DRY](https://en.wikipedia.org/wiki/Don't_repeat_yourself), and [The Boyscout Rule](http://programmer.97things.oreilly.com/wiki/index.php/The_Boy_Scout_Rule)  
+I favor architectures focusing on modular, easy-to-understand and maintainable code, aiming at lowering maintenance costs, while favoring the addition of new features.
 You may browse [my own github repository](https://github.com/scottinet) and the [kuzzle one](https://github.com/kuzzleio), to check if my coding style and skills match your expectations.
 
 Other skills that I have:
 
-* I'm a fast learner, able to quickly grasp new paradigms, languages and practices
-* I've architectured applications, data models and codes (object-oriented or not), and I love doing that
+* I am a fast learner, able to quickly grasp new paradigms, languages and practices
+* I am *very* curious, relentlessly asking questions, and unable to quit an issue until I fully grasp everything it implies
+* I have architectured applications, data models and codes (object-oriented or not), and I love doing that
 * I naturally offer my help to other team members, or train them when they ask me to
 * I helped design and optimize applications storage in SQL databases, as well as a large datawarehouse
 * I managed a team for about 5 years
@@ -41,23 +42,67 @@ Other skills that I have:
 # What I am looking for
 
 Above all, what I need are challenges.  
-When I bang my head on my desk on a hard to track, subtle bug occuring randomly, I feel like entering the ring. And when I swear out loud about a performance issue that needs a new algorithm or a new approach to be addressed, I feel like a kid in a candy store.  
+
+
+When I bang my head on my desk on a hard to track, subtle bug occuring randomly, I feel like entering the ring.  
+And when I swear out loud about a performance issue that needs a new algorithm or a new approach to be addressed, I feel like a kid in a candy store.  
+
 
 Give me routine and I get bored, and I lose my motivation. 
 
-I would like to work for a company with a modern/Agile mindset, where people actually spend their time collaborating, working, improving, teaching and innovating.  
-If that's not possible, then I will still gladly hear what you've got to offer in terms of salary, holidays and other advantages. 
+
+I would like to work for a company with a modern/Agile mindset, where people actually spend their time collaborating, communicating, working, improving, teaching and innovating.  
+
+And if you are not there yet, but are really motivated to put these practices in place, then I can help with that too.
+
+
+# Proficiencies
+
+Aside from programming languages, I encountered many practices, services and products that I have come to understand, use, and sometimes that I got to know really well.
+
+Here is an overview of these products and skills, by category:
+
+**Development:**
+
+Skills: Software Architecture, Algorithms, Performances & Optimizations, Test Strategies, Benchmarking
+
+**Data Manipulation:**
+
+Products: Elasticsearch, Sybase IQ, Sybase ASE, SQL Server, Postgres, OLAP
+Skills: Data modelization for large volumes, Query & Indexes Optimization, Business Intelligence
+
+**IoT:**
+
+Skills: Provisioning, Device Management, Geofencing & Geopositioning, Multi-tenancy
+
+**Virtualization:**
+
+Product: Docker
+
+**Environments:**
+
+Products: Unixes, Windows Server, AWS
+
+**Others:**
+
+Skills: Product Management (versioning, communication), Community Management, Team Management, Agile practices, Client Support
+
 
 # Experiences
 
 ## 03/2015 - Now: Lead Developer/Software Architect (Kuzzle)
 
-Now located in Montpellier, I am one of the lead developer and architect behind [Kuzzle](http://kuzzle.io), an open-source, installable and all-purpose back-end:
+I am one of the lead developer and architect behind [Kuzzle](http://kuzzle.io).
 
-* I co-designed and I was the only developer of [Koncorde](https://www.npmjs.com/package/koncorde), Kuzzle's real-time data percolation engine
-* I'm one of the main developers of Kuzzle's core. A few features that I designed and developed: network protocol plugin system, overload-protection mechanism, HTTP router, ...
-* I improved Kuzzle's memory consumption and overall performances using profiling analysis
-* I helped design and develop Kuzzle's SDKs in Javascript (browser + Node.js), Android, Go and C
+
+Kuzzle is an open-source, installable, generic and all-purpose back-end. It is now heavily leaning toward the IoT market, handling anything from tracked logistic containers, to smart construction sites or entire smart cities.
+
+
+* I co-designed and I was the only developer of [Koncorde](https://www.npmjs.com/package/koncorde), Kuzzle's real-time matching engine
+* I am one of the main developers of Kuzzle's core. A few features that I designed and developed: network layers, network protocol plugin system, overload-protection mechanism, HTTP router, cluster synchronization, ...
+* I led key architecture proposals, such as our modular architecture, our plugin system, and many others
+* I constantly improved Kuzzle's memory consumption and overall performances
+* I helped design and develop Kuzzle's SDKs in Javascript (browser + Node.js), Android, C# and Go
 * I participated to the product's roadmap, and pushed a few strategic, business-oriented proposals
 
 _Environment:_ Node.js, C, C++, Java, C#, Go
