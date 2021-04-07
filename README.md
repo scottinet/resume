@@ -4,6 +4,7 @@
 
 - [Overview](#overview)
 - [What I am looking for](#what-i-am-looking-for)
+- [Proficiencies](#proficiencies)
 - [Experiences](#experiences)
   - [03/2015 - Now: Lead Developer/Software Architect (Kuzzle)](#032015---now-lead-developersoftware-architect-kuzzle)
   - [10/2010 - 03/2015: IT Manager (Natixis)](#102010---032015-it-manager-natixis)
