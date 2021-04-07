@@ -173,11 +173,9 @@ Working for the French National Institute for Agricultural Research, I helped ma
 _Environment:_ C++
 
 
-# Other centers of interest
+# Spoken Languages
 
-On my free time, I'm playing [code golf](https://en.wikipedia.org/wiki/Code_golf) in C, Javascript or 05AB1E.  
-My code golf profile on stackexchange: https://codegolf.stackexchange.com/users/73296/scottinet
-
+French, English
 
 # How to contact me
 
