@@ -69,7 +69,7 @@ Skills: Software Architecture, Algorithms, Performances & Optimizations, Test St
 
 **Data Manipulation:**
 
-Products: Elasticsearch, Sybase IQ, Sybase ASE, SQL Server, Postgres, OLAP
+Products: Elasticsearch, Sybase IQ, Sybase ASE, SQL Server, Postgres, OLAP  
 Skills: Data modelization for large volumes, Query & Indexes Optimization, Business Intelligence
 
 **IoT:**
