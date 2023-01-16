@@ -48,7 +48,7 @@ I was one of the lead developer and architect behind this product.
 - Strategic and technical product roadmap;
 - Product integration and client
 
-_Environment:_ Node.js, C++, Java, C#, Go
+_Environment:_ Node.js, C++, Java, C#, Go, ElasticSearch
 
 ## 10/2010 - 03/2015: IT Manager (Natixis)
 
