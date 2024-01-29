@@ -23,6 +23,9 @@ Please contact me to work out the details: scottinet@proton.me
 
 I accompany companies in their projects.
 
+- Rofim (03/2023 - ): full-time mission as fullstack lead developer (typescript, angular, mongoDB)
+- Solence (2023): a few days here and there to help them release their mobile app (flutter)
+
 ## 07/2021 - 12/2022: Technical Lead (mySofie)
 
 [mySofie](https://mysofie.fr) is an Android & iOS application allowing users to track their health expenses in a simple and easy way.
