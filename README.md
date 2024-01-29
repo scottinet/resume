@@ -15,7 +15,7 @@ Of course, in-person meetings are possible: I am physically located at La Ciotat
 I currently favor the following programming languages: Node.js, Flutter.  
 I can also work on projects written in other languages, such as: C, Java, C#, Python, PHP, ...
 
-Please contact me to work out the details: scottinet@proton.me
+Please contact me to work out the details: sebastien@coredumped.io
 
 # Experiences
 
